@@ -1,1 +1,45 @@
+header{
+    background-color: rgb(145, 186, 226);
+    color: black;
+    padding: 2rem;
+}
 
+h1{
+    padding-bottom: 1rem;
+}
+
+header p{
+    font-size: 1.1rem;
+    padding-bottom: 1.3rem;
+}
+
+body {
+    background-color: white;
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+
+
+main {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+ol {
+    background: rgb(145, 186, 226);
+    border-radius: 10px;
+    padding: 20px;
+    list-style-type: decimal;
+}
+
+li {
+    padding: 10px;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #ddd;
+}
+
+li:last-child {
+    border-bottom: none;
+}

@@ -1,1 +1,29 @@
+header{
+    background-color: rgb(145, 186, 226);
+    color: black;
+    padding: 2rem;
+}
 
+h1{
+    padding-bottom: 1rem;
+}
+
+header p{
+    font-size: 1.1rem;
+    padding-bottom: 1.3rem;
+}
+
+img{
+    width: 33.1%;
+}
+
+h3{
+    font-size: 20px;
+            font-weight: bold;
+            font-family: sans-serif;
+            background: linear-gradient(to right, 
+                        indigo, blue, rgb(154, 59, 223), rgb(172, 68, 233));
+            -webkit-background-clip: text; /* For Webkit browsers */
+            background-clip: text;
+            color: transparent; /* Makes the text transparent to reveal the background */
+        }
