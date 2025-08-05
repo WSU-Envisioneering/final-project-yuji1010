@@ -3,6 +3,11 @@
     margin: 0;
     padding: 0;
 }
+a:hover {
+    background-color: rgb(173, 217, 247);
+    font-size: 18px;
+  }
+
 nav{
     text-align: center;
 }
